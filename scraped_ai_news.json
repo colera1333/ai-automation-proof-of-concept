@@ -1,0 +1,47 @@
+{
+  "scrape_timestamp": "2025-01-15T14:30:00Z",
+  "source": "Brave Search API",
+  "query": "latest AI news today",
+  "results": [
+    {
+      "rank": 1,
+      "title": "AI News | Latest AI News, Analysis & Events",
+      "description": "AI News reports on the latest artificial intelligence news and insights. Explore industry trends from the frontline of AI.",
+      "url": "https://www.artificialintelligence-news.com/",
+      "relevance_score": "high"
+    },
+    {
+      "rank": 2,
+      "title": "AI News & Artificial Intelligence | TechCrunch",
+      "description": "Read the latest on artificial intelligence and machine learning tech, the companies that are building them, and the ethical issues AI raises today.",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "relevance_score": "high"
+    },
+    {
+      "rank": 3,
+      "title": "Meta CEO Plans Personal AI Recruiting Drive",
+      "description": "Mark Zuckerberg plans to personally recruit around 50 people, including a new head of AI research for the AGI team, driven partly by frustration over Llama 4 performance.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence",
+      "relevance_score": "medium"
+    },
+    {
+      "rank": 4,
+      "title": "MIT Artificial Intelligence News",
+      "description": "Displaying 1-15 of 1372 news articles related to AI research and developments.",
+      "url": "https://news.mit.edu/topic/artificial-intelligence2",
+      "relevance_score": "high"
+    },
+    {
+      "rank": 5,
+      "title": "AI Technology Progress Updates",
+      "description": "Latest updates on AI like Google AI, ChatGPT, Google Lamda, Bard chatbot and more as AI technology advances.",
+      "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
+      "relevance_score": "medium"
+    }
+  ],
+  "metadata": {
+    "total_results": 5,
+    "processing_method": "automated_web_scraping",
+    "automation_tool": "MCP_Arsenal"
+  }
+}
